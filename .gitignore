@@ -1,14 +1,4 @@
-# Ignoriere Visual Studio Cache-Ordner
-.vs/
-
-# Ignoriere Log-Dateien
-.Logs/
-
-# Ignoriere Bibliotheken-Ordner
-.Library/
-
-# Ignoriere Visual Studio Konfigurationsdateien
-.vsconfig
-
-# Ignoriere Paket-Ordner
-.Packages/
+/Library
+/Logs
+/.vsconfig
+/obj/Debug
