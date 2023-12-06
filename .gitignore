@@ -1,0 +1,6 @@
+# ignoriere den ordner .vs
+.vs
+.Logs
+.Library
+.vsconfig
+.Packages
