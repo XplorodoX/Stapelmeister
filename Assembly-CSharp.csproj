@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DDA44D8A-D6FD-99DC-4134-53B65A924116}</ProjectGuid>
+    <ProjectGuid>{8BD8A425-6CF6-6F6F-17BD-E4CE3C151F08}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -326,15 +326,6 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Android.Types">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Android.Gradle">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Android.GradleProject">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.GradleProject.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
@@ -894,23 +885,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
-      <Project>{A7A4610C-6560-F44C-64FA-25F0356483F6}</Project>
+      <Project>{E0B99823-950C-A541-75E8-99E094B3882D}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj">
-      <Project>{FA2C5980-46E1-721C-3876-1CFD51D0B716}</Project>
+      <Project>{8E175AE4-508A-591F-6421-ACD4F1A39B00}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.Hands.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Hands.Samples.VisualizerSample.csproj">
-      <Project>{237E322B-90CC-7BA9-0FA3-251CA9E8911D}</Project>
+      <Project>{F1A8EF32-0BBC-A2B0-0002-9715023C2501}</Project>
       <Name>Unity.XR.Hands.Samples.VisualizerSample</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
-      <Project>{F1A8FEB2-22C3-0751-9786-D70E5AE95F57}</Project>
+      <Project>{E5878CFF-2D9C-8F23-219F-07121B51535A}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.Hands.csproj">
-      <Project>{5F071BC6-A827-85A2-C9C8-36C0760D6ABC}</Project>
+      <Project>{3EAB6487-F381-BE8F-5FC5-EA07F61435B8}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.Hands</Name>
     </ProjectReference>
   </ItemGroup>
