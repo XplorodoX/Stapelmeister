@@ -65,11 +65,11 @@
     <Compile Include="Assets\Scripts\SpawnManager.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\SyntyStudios\PolygonStarter\PolygonPrototype\Shaders\Prototype_Glass_Global.shader" />
-    <None Include="Assets\SyntyStudios\PolygonStarter\PolygonPrototype\Shaders\Prototype_Object.shader" />
+    <None Include="Assets\XRI\Settings\Resources\SyntyStudios\PolygonStarter\PolygonPrototype\Shaders\Prototype_Glass_Global.shader" />
+    <None Include="Assets\XRI\Settings\Resources\SyntyStudios\PolygonStarter\PolygonPrototype\Shaders\Prototype_Object.shader" />
     <None Include="Assets\Unity VR Basics 2023 Hands\Oculus Hands\LICENSE.txt" />
-    <None Include="Assets\SyntyStudios\PolygonStarter\PolygonPrototype\Shaders\Prototype_Global.shader" />
-    <None Include="Assets\SyntyStudios\PolygonStarter\PolygonPrototype\Shaders\Prototype_Glass_Object.shader" />
+    <None Include="Assets\XRI\Settings\Resources\SyntyStudios\PolygonStarter\PolygonPrototype\Shaders\Prototype_Global.shader" />
+    <None Include="Assets\XRI\Settings\Resources\SyntyStudios\PolygonStarter\PolygonPrototype\Shaders\Prototype_Glass_Object.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
