@@ -62,6 +62,7 @@
     <Compile Include="Assets\ContinouseMovement.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scenes\Interactible.cs" />
+    <Compile Include="Assets\PlatformScript.cs" />
     <Compile Include="Assets\Scripts\SpawnManager.cs" />
   </ItemGroup>
   <ItemGroup>
