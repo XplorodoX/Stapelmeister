@@ -17,7 +17,7 @@ Dieses Projekt wurde im Rahmen der Vorlesung Virtual und Augmented Reality entwi
 - **Level 3:** Noch in Entwicklung.
 
 ## Installation
-1. Laden Sie das Spiel von https://github.com/XplorodoX/VRGame/tree/master) herunter.
+1. Laden Sie das Spiel von https://github.com/XplorodoX/VRGame/tree/master herunter.
 2. Entpacken Sie die Dateien in einen gewünschten Ordner.
 3. Stellen Sie sicher, dass Sie über die notwendige VR-Hardware und -Software verfügen (siehe unten).
 4. Starten Sie die Anwendung über die ausführbare `.exe`-Datei.
