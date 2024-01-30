@@ -17,7 +17,7 @@ Dieses Projekt wurde im Rahmen der Vorlesung Virtual und Augmented Reality entwi
 - **Level 3:** Noch in Entwicklung.
 
 ## Installation
-1. Laden Sie das Spiel von [GitHub-Repository-Link] herunter.
+1. Laden Sie das Spiel von https://github.com/XplorodoX/VRGame/tree/master) herunter.
 2. Entpacken Sie die Dateien in einen gewünschten Ordner.
 3. Stellen Sie sicher, dass Sie über die notwendige VR-Hardware und -Software verfügen (siehe unten).
 4. Starten Sie die Anwendung über die ausführbare `.exe`-Datei.
@@ -39,13 +39,5 @@ Dieses Projekt wurde im Rahmen der Vorlesung Virtual und Augmented Reality entwi
 - **Betreuender Professor:** Lecon
 - **Musik:** Game Of Thrones Music
 - **Assets:** POLYGON - Sampler Pack, Footsteps - Essentials
-
-## Support
-Bei Fragen oder Problemen mit dem Spiel wenden Sie sich bitte an [E-Mail-Adresse].
-
-## Lizenz
-Dieses Projekt ist lizenziert unter [Lizenzname].
-
-Für weitere Details und Updates besuchen Sie bitte unser [GitHub-Repository-Link].
 
 Viel Spaß beim Spielen von "Stapelmeister"!
