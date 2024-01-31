@@ -39,12 +39,12 @@ public class PlayerMovement : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        // Wenn der Spieler ein Objekt aufnimmt
-        if (other.CompareTag("Object")) // Ersetzen Sie "Object" durch das Tag, das Sie für greifbare Objekte verwenden möchten
-        {
-            audioSource.Stop(); // Stoppen Sie den aktuellen Sound
-            audioSource.clip = grabSound;
-            audioSource.Play();
-        }
+        //// Wenn der Spieler ein Objekt aufnimmt
+        //if (other.CompareTag("Object")) // Ersetzen Sie "Object" durch das Tag, das Sie für greifbare Objekte verwenden möchten
+        //{
+        //    audioSource.Stop(); // Stoppen Sie den aktuellen Sound
+        //    audioSource.clip = grabSound;
+        //    audioSource.Play();
+        //}
     }
 }
