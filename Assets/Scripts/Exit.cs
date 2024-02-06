@@ -1,20 +1,20 @@
 using UnityEngine;
 
-public class ButtonController : MonoBehaviour
+public class GameExit : MonoBehaviour
 {
-    private bool isPressed = false; // Ein Zustand, um den Buttonstatus zu verfolgen.
-
-    // Hier wird die Methode aufgerufen, wenn der Button interagiert wird.
-    public void InteractWithButton()
+    // Method to end the game
+    public void ExitGame()
     {
-        // Überprüfe, ob der Button nicht bereits gedrückt wurde.
-        if (!isPressed)
-        {
-            // Führe die Logik für das Drücken des Buttons aus.
-            // Hier könntest du Animationen, Soundeffekte usw. hinzufügen.
-            // Wenn der Button gedrückt wurde, kannst du das Spiel beenden.
-            isPressed = true;
-            Application.Quit(); // Beendet das Spiel.
-        }
+        // Log message to the console
+        Debug.Log("Exit game called");
+
+        // Quit the application
+        Application.Quit();
+
+        // If we're running in the editor
+        #if UNITY_EDITOR
+        // Stop playing the scene in the editor
+        UnityEditor.EditorApplication.isPlaying = false;
+        #endif
     }
 }

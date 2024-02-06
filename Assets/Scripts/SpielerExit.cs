@@ -22,7 +22,7 @@ public class ExitGameAtCoordinates : MonoBehaviour
     {
         // Berechne die Distanz zwischen der aktuellen Position und der Zielposition
         float distanceToTarget = Vector3.Distance(transform.position, targetPosition);
-        Debug.Log(transform.position); // Zeige die Distanz im Konsolenfenster
+
 
         // Überprüfe, ob der Spieler innerhalb des Toleranzbereichs der Zielkoordinaten ist
         return distanceToTarget <= tolerance;
