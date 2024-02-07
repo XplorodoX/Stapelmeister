@@ -81,7 +81,7 @@ Das Hauptziel in "Stapelmeister" besteht darin, verschiedene Herausforderungen d
 
 ## Dokumentation
 
-Für detaillierte Informationen zum Spiel, einschließlich Installationsanleitungen, Spielanleitung, und mehr, besuchen Sie bitte unsere [Projektdokumentation](https://github.com/XplorodoX/Stapelmeister/blob/master/docs/README.md).
+Für detaillierte Informationen zum Spiel, einschließlich Installationsanleitungen, Spielanleitung, und mehr, besuchen Sie bitte unsere [Projektdokumentation](https://github.com/XplorodoX/Stapelmeister/blob/master/Doku/VR%20-%20Übung%204%20Dokumentation.pdf).
 
 
 Viel Spaß beim Spielen von "Stapelmeister"!
