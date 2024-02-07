@@ -17,6 +17,7 @@
 6. [Systemanforderungen](#systemanforderungen)
 7. [Warnhinweise](#warnhinweise)
 8. [Credits](#credits)
+9. [Dokumentation](#dokumentation)
 
 
 ## Einleitung
@@ -65,8 +66,6 @@ Dieses Projekt wurde im Rahmen der Vorlesung Virtual und Augmented Reality entwi
 **Ziel des Spiels:**
 Das Hauptziel in "Stapelmeister" besteht darin, verschiedene Herausforderungen durch geschicktes Stapeln und Klettern zu meistern. Jedes Level bietet einzigartige Rätsel und Hindernisse, die es zu überwinden gilt, um voranzukommen. Nutzen Sie Ihre Umgebung weise, und setzen Sie Ihre Fähigkeiten strategisch ein, um die gestellten Aufgaben zu lösen und das Spiel erfolgreich zu beenden.
 
-Diese verbesserte Steuerungsbeschreibung orientiert sich eng an der Originaldokumentation und soll Spielern einen klaren Überblick über die Bedienungselemente und Spielmechaniken von "Stapelmeister" bieten.
-
 ## Systemanforderungen
 - **Hardware:** Pico VR, Steam VR-kompatible Headsets.
 - **Software:** Unity, Steam VR.
@@ -79,5 +78,10 @@ Diese verbesserte Steuerungsbeschreibung orientiert sich eng an der Originaldoku
 - **Betreuender Professor:** Lecon
 - **Musik:** Game Of Thrones Music
 - **Assets:** POLYGON - Sampler Pack, Footsteps - Essentials
+
+## Dokumentation
+
+Für detaillierte Informationen zum Spiel, einschließlich Installationsanleitungen, Spielanleitung, und mehr, besuchen Sie bitte unsere [Projektdokumentation](https://github.com/XplorodoX/Stapelmeister/blob/master/docs/README.md).
+
 
 Viel Spaß beim Spielen von "Stapelmeister"!
