@@ -13,8 +13,17 @@ Dieses Projekt wurde im Rahmen der Vorlesung Virtual und Augmented Reality entwi
 
 ## Spielbeschreibung
 - **Level 1 - Die blaue Plattform:** Spieler interagieren mit Kisten und müssen ein R2D2-ähnliches Objekt auf einer blauen Plattform platzieren.
+
+![Level1](https://github.com/XplorodoX/Stapelmeister/blob/master/Images/Level1.PNG "Level 1")
+
 - **Level 2 - Der anspruchsvolle Parcours:** Ein herausfordernder Parcours, der Klettern, Balancieren und geschicktes Stapeln erfordert.
+
+![Level2](https://github.com/XplorodoX/Stapelmeister/blob/master/Images/Level2.PNG "Level 2")
+
 - **Level 3 - Die geheimnisvolle Burg:** Ein abenteuerliches Level, bei dem die Spieler durch geschicktes Stapeln und Klettern eine geheimnisvolle Burg erreichen müssen. Strategie und Geschick sind der Schlüssel zum Erfolg.
+
+![Level 3](https://github.com/XplorodoX/Stapelmeister/blob/master/Images/Level3.PNG "Level 3")
+
 
 **Tutorial und Navigation:** Das Spiel bietet Tutorial-Wände, die den Spielern helfen, die Spielmechaniken zu verstehen. Außerdem gibt es Exit-Türen, durch die Spieler das Spiel jederzeit verlassen können.
 
@@ -26,8 +35,7 @@ Dieses Projekt wurde im Rahmen der Vorlesung Virtual und Augmented Reality entwi
 
 ## Bedienung und Steuerung
 
-![VR Controller Steuerung](https://github.com/XplorodoX/Neue/blob/master/Assets/Models/Joysticks.jpeg "Steuerungselemente des VR Controllers")
-
+![VR Controller Steuerung](https://github.com/XplorodoX/Stapelmeister/blob/master/Assets/Models/Joysticks.jpeg "Steuerungselemente des VR Controllers")
 
 **Laufen und Teleportieren:**
 - **Laufen:** Bewegen Sie sich innerhalb der virtuellen Welt, indem Sie den Joystick am linken Controller nach vorne, hinten, links oder rechts neigen. Diese Methode ermöglicht eine intuitive Fortbewegung und ermöglicht es Ihnen, die Umgebung detailliert zu erkunden.
