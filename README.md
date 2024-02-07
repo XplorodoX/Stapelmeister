@@ -5,6 +5,20 @@
 - **Entwickler:** Florian Merlau, Nico Mangold, Andre Derjagin
 - **Professor:** Lecon
 
+## Inhaltsverzeichnis
+1. [Einleitung](#einleitung)
+2. [Projektüberblick](#projektüberblick)
+3. [Spielbeschreibung](#spielbeschreibung)
+    - [Level 1 - Die blaue Plattform](#level-1---die-blaue-plattform)
+    - [Level 2 - Der anspruchsvolle Parcours](#level-2---der-anspruchsvolle-parcours)
+    - [Level 3 - Die geheimnisvolle Burg](#level-3---die-geheimnisvolle-burg)
+4. [Installation](#installation)
+5. [Bedienung und Steuerung](#bedienung-und-steuerung)
+6. [Systemanforderungen](#systemanforderungen)
+7. [Warnhinweise](#warnhinweise)
+8. [Credits](#credits)
+
+
 ## Einleitung
 "Stapelmeister" ist ein innovatives VR-Spiel, das die Spieler in eine mittelalterliche Welt eintauchen lässt, in der sie ihre Geschicklichkeit und strategisches Denken unter Beweis stellen müssen. Durch das Stapeln von Kisten und Klettern auf Strukturen müssen die Spieler verschiedene Herausforderungen meistern, um aus dieser Welt zu entkommen.
 
