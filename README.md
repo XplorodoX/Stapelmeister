@@ -18,6 +18,7 @@
 7. [Warnhinweise](#warnhinweise)
 8. [Credits](#credits)
 9. [Dokumentation](#dokumentation)
+10. [Spielversion herunterladen](#spielversion-herunterladen)
 
 
 ## Einleitung
@@ -81,7 +82,11 @@ Das Hauptziel in "Stapelmeister" besteht darin, verschiedene Herausforderungen d
 
 ## Dokumentation
 
-Für detaillierte Informationen zum Spiel, einschließlich Installationsanleitungen, Spielanleitung, und mehr, besuchen Sie bitte unsere [Projektdokumentation](https://github.com/XplorodoX/Stapelmeister/blob/master/Doku/VR%20-%20Übung%204%20Dokumentation.pdf).
+Für detaillierte Informationen zum Spiel, einschließlich Installationsanleitungen, Spielanleitung und weiterführenden Details, besuchen Sie bitte unsere Projektdokumentation unter dem folgenden Link: [Projektdokumentation](https://github.com/XplorodoX/Stapelmeister/blob/master/Doku/VR%20-%20Übung%204%20Dokumentation.pdf). Hier finden Sie umfassende Einblicke in die Spielmechaniken, die Entwicklungsumgebung sowie Schritt-für-Schritt-Anleitungen für die Installation und das Starten des Spiels.
+
+## Spielversion herunterladen
+
+Die aktuellste Version des Spiels kann über den folgenden Link heruntergeladen werden: [Spiel herunterladen](https://bwsyncandshare.kit.edu/s/GEcMpzMNDTWNJzr). Im Download-Bereich finden Sie die ausführbare Datei (.exe) des Spiels, die eine einfache Installation und ein schnelles Starten des Spiels auf Windows-Systemen ermöglicht. Laden Sie die Datei herunter, führen Sie die Installation durch und beginnen Sie direkt mit dem Spiel.
 
 
 Viel Spaß beim Spielen von "Stapelmeister"!
