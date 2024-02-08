@@ -3,7 +3,7 @@
 ## Projektinformationen
 - **Projektname:** Stapelmeister (ehemals Stapelspiel)
 - **Entwickler:** Florian Merlau, Nico Mangold, Andre Derjagin
-- **Professor:** Lecon
+- **Professor:** Prof. Dr. Carsten Lecon
 
 ## Inhaltsverzeichnis
 1. [Einleitung](#einleitung)
