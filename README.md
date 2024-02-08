@@ -69,7 +69,7 @@ Das Hauptziel in "Stapelmeister" besteht darin, verschiedene Herausforderungen d
 
 ## Credits
 - **Entwickler:** Florian Merlau, Nico Mangold, Andre Derjagin
-- **Betreuender Professor:** Lecon
+- **Betreuender Professor:** Prof. Dr. Carsten Lecon
 - **Musik:** Game Of Thrones Music
 - **Assets:** POLYGON - Sampler Pack, Footsteps - Essentials
 
